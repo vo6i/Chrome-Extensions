@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Dclxviclan EXTENSION Game",
+  "description": "The description of your extension",
+  "version": "1.0.0",
+ 
+ 
+  "action": {
+    "permissions": [ "tabs" ],
+    "default_popup": "popup.html"
+  }
+}
